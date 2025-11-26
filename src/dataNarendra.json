@@ -1,0 +1,213 @@
+{
+  "full_name": "Narendra Satya Adikurniawan",
+  "nim": "L200230209",
+  "prodi": "Informatics, UMS (2023 – Now)",
+  "angkatan": "2023",
+  "photo_url": "src/assets/foto-narendra.webp",
+  "headline": "Fullstack Developer & UI/UX Enthusiast | Aspiring iOS Developer",
+  "short_bio": "Currently learning Swift & Mobile Dev.",
+  "location": "Surakarta, Jawa Tengah",
+  "portfolio_url": "https://narendrasatyaa.github.io",
+  "email": "narendra.adikurniawan@gmail.com",
+  "phone": "+6287875751505",
+  "profile": "Mahasiswa Teknik Informatika Semester 5 di UMS yang berfokus pada web development (Laravel) dan UI/UX. Saat ini sedang memperluas keahlian ke pengembangan aplikasi mobile menggunakan Swift.",
+  "skills": [
+    {
+      "id": 1,
+      "name": "PHP",
+      "category": "Backend",
+      "level": "Advanced",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    },
+    {
+      "id": 2,
+      "name": "Laravel",
+      "category": "Framework",
+      "level": "Advanced",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
+    },
+    {
+      "id": 3,
+      "name": "MySQL",
+      "category": "Database",
+      "level": "Advanced",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+    },
+    {
+      "id": 4,
+      "name": "JavaScript",
+      "category": "Frontend",
+      "level": "Intermediate",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "id": 5,
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "level": "Intermediate",
+      "is_main": false,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      "id": 6,
+      "name": "Python",
+      "category": "Language",
+      "level": "Intermediate",
+      "is_main": false,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    },
+    {
+      "id": 7,
+      "name": "Figma",
+      "category": "Design",
+      "level": "Advanced",
+      "is_main": true,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    },
+    {
+      "id": 8,
+      "name": "Vite.js",
+      "category": "Build Tool",
+      "level": "Intermediate",
+      "is_main": false,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Web Development Intern",
+      "company": "PT Putra Wijayakusuma Sakti (PWS)",
+      "year": "Aug 2025 - Present",
+      "description": "Membangun website peminjaman aset internal Rental PWS untuk mengelola booking ruangan dan kendaraan operasional kantor, menambahkan fitur upload hingga 10 file dengan dukungan format ZIP, serta melakukan pembaruan fitur pada website company profile menggunakan Laravel 11 dan Vite.js.",
+      "tags": ["Laravel 11", "Vite.js", "MySQL", "Tailwind"]
+    },
+    {
+      "title": "Programming Algorithm Laboratory Assistant",
+      "company": "Universitas Muhammadiyah Surakarta",
+      "year": "Sep 2024 - Jan 2025",
+      "description": "Membantu mahasiswa memahami konsep algoritma, memberikan solusi masalah teknis (debugging), serta menyiapkan materi dan modul praktikum.",
+      "tags": ["Python", "Teaching"]
+    },
+    {
+      "title": "Head of Science and Research",
+      "company": "HIMATIF UMS",
+      "year": "Jan 2025 - Present",
+      "description": "Memimpin program ilmiah dan riset pengembangan perangkat lunak berbasis web.",
+      "tags": ["Leadership", "Research", "Team Management"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "PT PWS Internal Loan Website",
+      "description": "Website peminjaman aset internal untuk mengelola proses booking ruangan dan kendaraan. Dibangun dengan Laravel 11 dan Vite.js untuk performa yang responsif.",
+      "tags": ["Laravel 11", "Vite.js", "MySQL"]
+    },
+    {
+      "name": "Informatics Repository UMS",
+      "description": "Platform pusat penyimpanan dan distribusi soal ujian (UTS/UAS) dan materi pendukung untuk mahasiswa Informatika UMS.",
+      "tags": ["Laravel", "Vite.js", "MySQL"]
+    },
+    {
+      "name": "e-Recruitment HIMATIF UMS",
+      "description": "Platform digital untuk memfasilitasi pendaftaran anggota baru, pengecekan status penerimaan, dan manajemen rekrutmen oleh admin.",
+      "tags": ["PHP", "Tailwind", "MySQL"]
+    },
+    {
+      "name": "HIMATIF UMS Website (Redesign)",
+      "description": "Redesign total website organisasi menjadi platform fullstack yang modern dan responsif, terintegrasi dengan database untuk pengelolaan konten.",
+      "tags": ["PHP", "JavaScript", "Tailwind", "MySQL"]
+    },
+    {
+      "name": "TirtaAI",
+      "description": "Chatbot AI pintar menggunakan model Qwen-Plus (Alibaba Cloud) yang mampu menangani percakapan multi-turn dan logika berlapis.",
+      "tags": ["Python 3.10", "DashScope", "Streamlit"]
+    },
+    {
+      "name": "NutriBunda",
+      "description": "Desain UI/UX aplikasi pelacakan gizi ibu hamil untuk pencegahan stunting, dilengkapi fitur AI Food Scanner dan Gamifikasi.",
+      "tags": ["UI/UX Design", "Figma", "Co-Design"]
+    },
+    {
+      "name": "KaryaHub",
+      "description": "Sistem manajemen absensi berbasis web untuk memantau kehadiran pegawai, mengelola cuti, dan laporan otomatis.",
+      "tags": ["UI/UX Design", "Figma"]
+    },
+    {
+      "name": "WakafPintar",
+      "description": "Platform web untuk pengelolaan wakaf dengan fitur pemilihan jenis dan nominal wakaf guna mendukung pemberdayaan ekonomi umat.",
+      "tags": ["UI/UX Design", "Figma"]
+    },
+    {
+      "name": "Iftar Countdown",
+      "description": "Aplikasi web sederhana yang mendeteksi lokasi pengguna dan menghitung waktu berbuka puasa secara otomatis.",
+      "tags": ["JavaScript", "Geolocation"]
+    },
+    {
+      "name": "Pondok Bunga Sri Rejeki",
+      "description": "Website promosi dan penjualan tanaman hias dengan fitur katalog produk, landing page interaktif, dan integrasi Google Maps.",
+      "tags": ["PHP", "MySQL", "HTML/CSS"]
+    },
+    {
+      "name": "HIMATIF Presensi",
+      "description": "Sistem presensi digital berbasis web untuk mendigitalisasi proses absensi kegiatan organisasi mahasiswa.",
+      "tags": ["PHP", "MySQL", "JavaScript"]
+    },
+    {
+      "name": "Simple Donation Management",
+      "description": "Sistem manajemen donasi sederhana (CRUD) untuk mengelola data donatur dan nominal donasi sosial.",
+      "tags": ["PHP Native", "MySQL"]
+    },
+    {
+      "name": "About Campus ID",
+      "description": "Landing page penyedia informasi event kampus dan layanan edukasi dengan integrasi pemesanan via WhatsApp.",
+      "tags": ["HTML", "CSS", "JavaScript Vanilla"]
+    },
+    {
+      "name": "Sistem Presensi Karyawan",
+      "description": "Aplikasi presensi perusahaan lengkap dengan fitur check-in harian, pengajuan cuti, manajemen profil, dan panel admin.",
+      "tags": ["PHP", "MySQL"]
+    },
+    {
+      "name": "GreenPulse",
+      "description": "Aplikasi web edukasi lingkungan dengan fitur pelaporan dan gamifikasi poin untuk meningkatkan kesadaran ekologis.",
+      "tags": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "KenalBatin (Unfinished)",
+      "description": "Platform refleksi diri berbasis AI untuk mengeksplorasi topik psikologis seperti stres dan self-esteem.",
+      "tags": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "name": "MyPresensi Re-Design (Unfinished)",
+      "description": "Desain ulang aplikasi presensi UMS yang mencakup presensi mahasiswa/dosen, akses mata kuliah, dan jadwal pembelajaran.",
+      "tags": ["UI/UX Design", "Figma"]
+    },
+    {
+      "name": "Laukita Catering App (Unfinished)",
+      "description": "Desain aplikasi katering yang memudahkan pengguna memesan makanan dengan fitur kustomisasi menu.",
+      "tags": ["UI/UX Design", "Figma"]
+    },
+    {
+      "name": "Futsal FKI UMS Branding",
+      "description": "Desain visual dan konten media sosial (Instagram Stories & Feeds) untuk branding klub futsal fakultas.",
+      "tags": ["Graphic Design", "Figma"]
+    },
+    {
+      "name": "Personal Web Profile",
+      "description": "Website portofolio pribadi interaktif untuk menampilkan identitas, keahlian, dan karya-karya digital.",
+      "tags": ["HTML", "CSS", "JavaScript"]
+    }
+  ]
+}
